@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.profile{
+    display: flex;
+    border: dotted purple 2px;
+}
+.card{
+    max-width: 256px;
+    padding: 25px;
+    margin: 20px;
+    border: solid black 2px;
+    align-content: center;
+    box-shadow: black 5px 10px;
+}
+.card>img{
+    border: solid purple ;
+}
